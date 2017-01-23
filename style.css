@@ -1,0 +1,44 @@
+.container {
+    width: 220px;
+    height: 110px;
+    margin-top: 100px;
+}
+
+.box1{
+    float: left;
+    width: 108px;
+    height: 53px;
+   border: 1px solid red;
+}
+
+.box2{
+    float: left;
+    width: 108px;
+    height: 53px;
+    border: 1px solid yellow;
+   
+}
+
+.box3{
+    float: left;
+    width: 108px;
+    height: 53px;
+   border: 1px solid green;
+
+}
+
+.box4{
+    float: left;
+    width: 108px;
+    height: 53px;
+     border: 1px solid red;
+    }
+
+.middlebox{
+    position:relative;
+    top:27px;
+    left:0px;
+    width: 108px;
+    height: 53px;
+     border: 1px solid red;
+}
